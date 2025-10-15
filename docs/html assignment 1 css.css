@@ -1,10 +1,10 @@
 body{
-    background:green;
-    color: #70003D;
-    margin: 100px;
+    background:blue;
+    color: #ADD8E6;
+    margin: 150px;
 }
 p{
-    color: #FF33F0;
+    color: #000000;
 }
 .noun{
     font-weight: 900;
